@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+}
+.body-style {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.main-content {
+    flex: 1;
+}
+.main-content {
+    padding: 20px;
+    margin-left: 20px; /* Geser konten ke kiri */
+}
